@@ -1,2 +1,3 @@
 # 3D_Similarity_measure_in_IFS
 An Atypic 3D Similarity Measure for Intuitionistic Fuzzy Sets and its Applications
+A research project on Fuzzy logic and its applications, where an atypic similarity measure was purposed and its applications on fields like pattern recognition, software quality evaluation and medical diagnosis was shown in which the purposed similarity measure was used to compute the similarities and distances between two fuzzy sets using 3 attributes in pattern recognition,13 attributes in software quality evaluation and 5 attributes medical diagnosis in MATLAB. The algorithm purposed using the novel similarity measure shows and a comparison table was drawn in which improved quality results were shown than the existing results.
